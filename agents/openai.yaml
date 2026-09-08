@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 210"
+  short_description: "Cool Minimal Conceptual Photo Collage"
+  default_prompt: "Use $xxd-panel-210 to transform my photograph following the complete canonical source brief."
